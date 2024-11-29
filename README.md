@@ -1,7 +1,6 @@
 <!-- git 사용-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkdwns6335&hide=contribs,prs&show_icons=true&theme=테마)
-<!-- 언어 사용-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkdwns6335)](https://github.com/anuraghazra/github-readme-stats)
+
 
 #### ✏️ Studying...
 ![js](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
