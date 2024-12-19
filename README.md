@@ -1,5 +1,20 @@
 <!-- git 사용-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkdwns6335&hide=contribs,prs&show_icons=true&theme=테마)
+<div align="center">
+   <!-- 깃허브 스탯 -->
+   <img src="https://github-readme-stats.vercel.app/api?username=rkdwns6335&show_icons=true&theme=buefy" />
+  <br>
+  <br>
+</div>
+
+<!-- 방문자 수 배지 (주석 처리됨) -->
+<!--
+<div align="center">
+   <a href="https://hits.seeyoufarm.com">
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frkdwns6335&count_bg=%23896AFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+   </a>
+</div>
+-->
+
 
 
 #### ✏️ Studying...
