@@ -1,7 +1,7 @@
 <!-- git 사용-->
 <div align="center">
    <!-- 깃허브 스탯 -->
-   <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=buefy" />
+   <img src="https://github-readme-stats.vercel.app/api?username=rkdwns6335&show_icons=true&theme=buefy" />
   <br>
   <br>
 </div>
