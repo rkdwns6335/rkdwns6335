@@ -1,7 +1,7 @@
 <!-- git 사용-->
 <div align="center">
    <!-- 깃허브 스탯 -->
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkdwns6335&show_icons=true&theme=dracula)
+   <img src="https://github-readme-stats.vercel.app/api?username=rkdwns6335&show_icons=true&theme=dracula" alt="rkdwns6335's GitHub stats" />
   <br>
 </div>
 
